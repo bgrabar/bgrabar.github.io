@@ -1,8 +1,8 @@
 * {
     font-family: "Helvetica Neue", Arial, sans-serif;
-    margin-left: 10px;
+    margin-left: 10px !important;
 }
 
 li{
-    margin-bottom: 8px;
+    margin-bottom: 8px !important;
 }
