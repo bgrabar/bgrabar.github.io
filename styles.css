@@ -3,6 +3,19 @@
     margin-left: 10px !important;
 }
 
-li{
+h3 {
+    margin-bottom: 40px !important;
+}
+
+ul * {
+    font-size: 14px !important;
     margin-bottom: 8px !important;
+}
+
+.linkedin-header{
+    margin-bottom: 6px !important;
+}
+
+.linkedin-anchor{
+    font-size: 14px !important;
 }
